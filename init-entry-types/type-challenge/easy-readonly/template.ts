@@ -11,7 +11,7 @@ interface Todo {
 type r = keyof Todo
 
 // 验证
-const rv: r = 'age'
+const rv: r = ''
 
 
 // js实现
